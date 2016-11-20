@@ -1,6 +1,40 @@
 <!-- title: N.H -->
 <!-- subtitle: Work Experience -->
 
+## 企業向け採用管理システムの開発
+
+### 期間
+2016年9月〜2016年12月
+
+### 業種
+IT
+
+### 業務内容
+- サーバーサイド（API）の開発（Ruby on Rails） 
+- フロントエンド開発（mithril.js）
+
+
+### 開発環境
+Ruby on Rails、JavaScript (mithril.js/jQuery) 、Git (GitHub)、Google Cloud Platform
+
+
+## マッチングアプリ向けAPIの開発
+
+### 期間
+2016年4月〜2016年8月
+
+### 業種
+IT
+
+### 業務内容
+- サーバーサイド（API）の開発（Go言語）
+- 管理画面のフロントエンド開発（Angular.js）
+- スクラム開発
+
+### 開発環境
+Go言語 (gin、gorm)、JavaScript (ng-admin[Angular.js])、Git (GitHub)、AWS (EC2/S3/ElasticSearch/ElasticCache)
+
+----------
 
 ## 製造業商社向け受注システムの開発
 
@@ -11,7 +45,7 @@
 IT
 
 ### 業務内容
-- サーバサイド（API）の開発
+- サーバーサイド（API）の開発
 - スクラム開発
 
 ### 開発環境
@@ -28,7 +62,7 @@ Scala (Play2, Specs2)、JavaScript (knockout.js、jquery)、MySQL, Oracle
 IT
 
 ### 業務内容
-- サーバサイド（API）の開発
+- サーバーサイド（API）の開発
 - MongoDBの環境構築
 - スクラム開発
 - 週3日リモートワーク
