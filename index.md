@@ -1,6 +1,40 @@
 <!-- title: N.H -->
 <!-- subtitle: Work Experience -->
 
+## エンジニア向け求人サイトの開発
+
+### 期間
+2017年4月〜
+
+### 業種
+人材派遣
+
+### 業務内容
+- サーバーサイドの開発（Ruby on Rails） 
+- フロントエンドの開発（Ruby on Rails / React.js）
+
+### 開発環境
+Ruby on Rails、JavaScript (React.js) 、Git (GitHub)、AWS (EC2/S3)、Heroku
+
+----------
+
+## 仮想通貨を利用したクラウドファンディングサイトの開発
+
+### 期間
+2017年1月〜2017年3月
+
+### 業種
+金融
+
+### 業務内容
+- サーバーサイドの開発（Ruby on Rails） 
+- フロントエンドの開発（Ruby on Rails / Vue.js）
+
+### 開発環境
+Ruby on Rails、JavaScript (Vue.js) 、Git (GitHub)、AWS (EC2/S3)
+
+----------
+
 ## 企業向け採用管理システムの開発
 
 ### 期間
@@ -13,10 +47,10 @@ IT
 - サーバーサイド（API）の開発（Ruby on Rails） 
 - フロントエンド開発（mithril.js）
 
-
 ### 開発環境
 Ruby on Rails、JavaScript (mithril.js/jQuery) 、Git (GitHub)、Google Cloud Platform
 
+----------
 
 ## マッチングアプリ向けAPIの開発
 
