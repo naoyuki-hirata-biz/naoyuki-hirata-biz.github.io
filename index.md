@@ -1,6 +1,40 @@
 <!-- title: N.H -->
 <!-- subtitle: Work Experience -->
 
+## エンジニア向け求人サイトの開発
+
+### 期間
+2017年4月〜
+
+### 業種
+人材派遣
+
+### 業務内容
+- サーバーサイドの開発（Ruby on Rails） 
+- フロントエンドの開発（Ruby on Rails / React.js）
+
+### 開発環境
+Ruby on Rails、JavaScript (React.js) 、Git (GitHub)、AWS (EC2/S3)、Heroku
+
+----------
+
+## 仮想通貨を利用したクラウドファンディングサイトの開発
+
+### 期間
+2017年1月〜2017年3月
+
+### 業種
+金融
+
+### 業務内容
+- サーバーサイドの開発（Ruby on Rails） 
+- フロントエンドの開発（Ruby on Rails / Vue.js）
+
+### 開発環境
+Ruby on Rails、JavaScript (Vue.js) 、Git (GitHub)、AWS (EC2/S3)
+
+----------
+
 ## 企業向け採用管理システムの開発
 
 ### 期間
@@ -12,7 +46,6 @@ IT
 ### 業務内容
 - サーバーサイド（API）の開発（Ruby on Rails） 
 - フロントエンド開発（mithril.js）
-
 
 ### 開発環境
 Ruby on Rails、JavaScript (mithril.js/jQuery) 、Git (GitHub)、Google Cloud Platform
@@ -46,7 +79,7 @@ Go言語 (gin、gorm)、JavaScript (ng-admin[Angular.js])、Git (GitHub)、AWS (
 IT
 
 ### 業務内容
-- サーバサイド（API）の開発
+- サーバーサイド（API）の開発
 - スクラム開発
 
 ### 開発環境
@@ -63,7 +96,7 @@ Scala (Play2, Specs2)、JavaScript (knockout.js、jquery)、MySQL, Oracle
 IT
 
 ### 業務内容
-- サーバサイド（API）の開発
+- サーバーサイド（API）の開発
 - MongoDBの環境構築
 - スクラム開発
 - 週3日リモートワーク
@@ -82,8 +115,8 @@ Java (Jersey)、node.js、JavaScript (backbone.js、jquery)、MongoDB
 出版
 
 ### 業務内容
-- コーディング～結合テスト、障害対応（〜2014/06）
-- スクラム開発によるエンハンス対応（2014/07〜）
+・コーディング～結合テスト、障害対応（〜2014/06）
+・スクラム開発によるエンハンス対応（2014/07〜）
 
 ### 開発環境
 Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
@@ -99,11 +132,10 @@ Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
 サービス
 
 ### 業務内容
-詳細設計、コーディング、単体テスト、結合テスト
+詳細設計、コーディング、単体テスト、結合テストを担当。
 
 ### 開発環境
-- フロントエンド：[PHP、SQL Server、Eclipse]
-- バックエンド：[Java(Struts2/Spring/Hibernate)、SQL Server、JavaScript(jQuery)、Tomcat、Eclipse]
+フロントエンド：[PHP、SQL Server、Eclipse] バックエンド：[Java(Struts2/Spring/Hibernate)、SQL Server、JavaScript(jQuery)、Tomcat、Eclipse]
 
 ----------
 
@@ -116,7 +148,7 @@ Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
 IT
 
 ### 業務内容
-要件定義、現行システム調査、基本設計、詳細設計、コーディング、単体テスト、結合テスト
+要件定義、現行システム調査、基本設計、詳細設計、コーディング、単体テスト、結合テストを担当。
 
 ### 開発環境
 Java(SAStruts/S2JDBC)、JavaScript(jQuery)、MySql、Tomcat、Eclipse
@@ -132,7 +164,7 @@ Java(SAStruts/S2JDBC)、JavaScript(jQuery)、MySql、Tomcat、Eclipse
 出版
 
 #### 業務内容
-- コーディング、単体テスト、結合テスト
+- コーディング、単体テスト、結合テストを担当。
 
 ### 開発環境
 Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
@@ -141,16 +173,16 @@ Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
 
 ## 画像共有サイトの開発
 
-### 期間
+#### 期間
 2012年4月〜2012年6月
 
-### 業種
+#### 業種
 出版
 
-### 業務内容
-基本設計書作成、詳細設計書作成、コーディング、単体テスト、結合テスト
+#### 業務内容
+基本設計書作成、詳細設計書作成、コーディング、単体テスト、結合テストを担当。
 
-### 開発環境
+#### 開発環境
 Ruby on Rails、JavaScript(jQuery)、MySql
 
 ----------
@@ -164,7 +196,7 @@ Ruby on Rails、JavaScript(jQuery)、MySql
 サービス
 
 ### 業務内容
-ショッピングカート機能拡張の仕様書作成、コーディング、単体テスト、結合テスト
+ショッピングカート機能拡張の仕様書作成、コーディング、単体テスト、結合テストを担当。
 
 ### 開発環境
 Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Tomcat、Eclipse
@@ -180,7 +212,7 @@ Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Tomcat、Eclipse
 出版
 
 ### 業務内容
-基本設計〜結合テスト
+基本設計〜結合テストを担当。
 
 ### 開発環境
 Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
@@ -196,7 +228,7 @@ Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
 出版
 
 #### 業務内容
-詳細設計〜結合テスト
+詳細設計〜結合テストを担当。
 
 #### 開発環境
 Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
@@ -212,7 +244,7 @@ Java(SAStruts/S2JDBC)、JavaScript(jQuery)、Oracle、Tomcat、Eclipse
 独立法人
 
 ### 業務内容
-某独立法人向け物件管理システムのコーディング〜単体テスト(仕様書作成を含む)
+某独立法人向け物件管理システムのコーディング〜単体テスト(仕様書作成を含む)を担当。
 
 ### 開発環境
 Java(SAStruts/S2JDBC/S2JUnit)、JavaScript、Oracle、Tomcat、Eclipse
@@ -221,17 +253,17 @@ Java(SAStruts/S2JDBC/S2JUnit)、JavaScript、Oracle、Tomcat、Eclipse
 
 ## 某コンシューマ向けポイント管理システムの開発 / カード決済システムの開発
 
-### 期間
+#### 期間
 2009年10月〜2009年12月
 
-### 業種
+#### 業種
 IT
 
-### 業務内容
-- 某コンシューマ向けポイント管理システムのコーディング〜単体テスト(仕様書作成を含む)
-- カード決済システムのコーディング〜単体テスト(仕様書作成を含む)
+#### 業務内容
+- 某コンシューマ向けポイント管理システムのコーディング〜単体テスト(仕様書作成を含む)を担当。
+- カード決済システムのコーディング〜単体テスト(仕様書作成を含む)を担当。
 
-### 開発環境
+#### 開発環境
 Java(独自FW/Spring/iBATIS)、Oracle、PostgreSQL、JavaScript(jQuery)、Tomcat、Eclipse
 
 ----------
@@ -245,7 +277,7 @@ Java(独自FW/Spring/iBATIS)、Oracle、PostgreSQL、JavaScript(jQuery)、Tomcat
 出版
 
 ### 業務内容
-コーディング〜単体テスト(仕様書作成を含む)
+コーディング〜単体テスト(仕様書作成を含む)を担当。
 
 ### 開発環境
 Java(SAStruts/S2JDBC)、JavaScript(jQuery)、H2DB、Oracle、Tomcat、Eclipse
@@ -278,7 +310,7 @@ Java(JPA/Hibernate)、Ruby on Rails、MySQL、JavaScript(prototype.js)、Eclipse
 アミューズメント
 
 ### 業務内容
-コンシューマ向けサイトの詳細設計〜単体テスト
+コンシューマ向けサイトの詳細設計〜単体テストを担当。
 
 ### 開発環境
 Java(Struts/Spring/iBATIS)、Oracle、Tomcat、Eclipse
@@ -294,7 +326,7 @@ Java(Struts/Spring/iBATIS)、Oracle、Tomcat、Eclipse
 自動車
 
 ### 業務内容
-某自動車メーカー向け部品カタログシステムのコーディング〜単体テスト(テスト仕様書を含む)
+某自動車メーカー向け部品カタログシステムのコーディング〜単体テスト(テスト仕様書を含む)を担当。
 
 ### 開発環境
 Java(Struts/Spring/iBATIS)、DB2、WebSphere、WSAD(WebSphere Studio Advanced Developer)
@@ -310,7 +342,7 @@ Java(Struts/Spring/iBATIS)、DB2、WebSphere、WSAD(WebSphere Studio Advanced De
 保険
 
 ### 業務内容
-某保険会社向け経費システムのプロトタイプ作成および開発者向けプログラミングガイド作成業務
+某保険会社向け経費システムのプロトタイプ作成および開発者向けプログラミングガイド作成業務を担当。
 
 ### 開発環境
 Java(Struts)、Ajax(Ext)、WebOTX、Eclipse
@@ -326,7 +358,7 @@ Java(Struts)、Ajax(Ext)、WebOTX、Eclipse
 小売業
 
 ### 業務内容
-某百貨店向けポイント管理システムのコーディング〜結合テスト
+某百貨店向けポイント管理システムのコーディング〜結合テストまでを担当。
 
 ### 開発環境
 Java(Struts)、Oracle、WebLogic、Eclipse
@@ -342,7 +374,7 @@ Java(Struts)、Oracle、WebLogic、Eclipse
 IT
 
 ### 業務内容
-登録モニター向けインターネット市場調査システムの詳細設計書作成〜結合テスト
+登録モニター向けインターネット市場調査システムの詳細設計書作成〜結合テストまでを担当。
 
 ### 開発環境
 Java(Struts)、Oracle、Tomcat、Eclipse
@@ -358,8 +390,7 @@ Java(Struts)、Oracle、Tomcat、Eclipse
 飲食店チェーン
 
 ### 業務内容
-社内向け店舗管理システムおよび勤怠管理システムの詳細設計書作成〜結合テスト  
-社内担当者とのヒアリングから、基本設計書作成
+社内向け店舗管理システムおよび勤怠管理システムの詳細設計書作成〜結合テストまでを担当。社内担当者とのヒアリングから、基本設計書作成までを担当。
 
 ### 開発環境
 Java(JSP/Servlet)、Oracle、Tomcat、Eclipse
@@ -375,7 +406,7 @@ Java(JSP/Servlet)、Oracle、Tomcat、Eclipse
 官公庁
 
 ### 業務内容
-詳細設計書作成〜単体テスト(テスト仕様書を含む)
+詳細設計書作成〜単体テスト(テスト仕様書を含む)までを担当。
 
 #### 開発環境
 Java(Struts)、Oracle、Oracle Application Server、Eclipse
@@ -391,8 +422,7 @@ Java(Struts)、Oracle、Oracle Application Server、Eclipse
 金融
 
 ### 業務内容
-テレホンバンキングシステムのCTI連携の部分の基本設計〜詳細設計〜プログラム・結合テスト  
-CTIミドルウェアとしてGWC(Genesys Web Client)を使用
+テレホンバンキングシステムのCTI連携の部分の基本設計〜詳細設計〜プログラム・結合テストまでを担当。CTIミドルウェアとしてGWC(Genesys Web Client)を使用。
 
 ### 開発環境
 Java(JSP/Servlet)、Oracle、DB2、WebSphere、WSAD(WebSphere Studio Advanced Developer)
@@ -408,7 +438,7 @@ Java(JSP/Servlet)、Oracle、DB2、WebSphere、WSAD(WebSphere Studio Advanced De
 金融
 
 ### 業務内容
-ユーザヒアリング資料をもとに詳細設計〜プログラム〜結合テスト
+ユーザヒアリング資料をもとに詳細設計〜プログラム〜結合テストまでを担当。
 
 ### 開発環境
 Java(JSP/Servlet)、DB2、WebSphere、WSAD(WebSphere Studio Advanced Developer)
