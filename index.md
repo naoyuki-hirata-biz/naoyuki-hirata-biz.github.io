@@ -1,16 +1,30 @@
 <!-- title: N.H -->
 <!-- subtitle: Work Experience -->
 
+## スマホ向け短尺縦型エンタメ動画アプリのAPIおよび管理画面の開発
+
+### 期間
+2017年12月〜
+
+### 業種
+エンターテイメント
+
+### 業務内容
+- サーバーサイドAPIの開発（Ruby on Rails）
+- 管理画面の開発（Ruby on Rails）
+
+----------
+
 ## 動画プラットフォームシステムの開発
 
 ### 期間
-2017年7月〜
+2017年7月〜2018年3月
 
 ### 業種
 IT
 
 ### 業務内容
-- サーバーサイドの開発（Ruby on Rails） 
+- サーバーサイドの開発（Ruby on Rails）
 - フロントエンドの開発（Ruby on Rails / jQuery / Ember.js）
 
 ----------
@@ -24,7 +38,7 @@ IT
 人材派遣
 
 ### 業務内容
-- サーバーサイドの開発（Ruby on Rails） 
+- サーバーサイドの開発（Ruby on Rails）
 - フロントエンドの開発（Ruby on Rails / React.js）
 
 ### 開発環境
@@ -41,7 +55,7 @@ Ruby on Rails、JavaScript (React.js) 、Git (GitHub)、AWS (EC2/S3)、Heroku
 金融
 
 ### 業務内容
-- サーバーサイドの開発（Ruby on Rails） 
+- サーバーサイドの開発（Ruby on Rails）
 - フロントエンドの開発（Ruby on Rails / Vue.js）
 
 ### 開発環境
@@ -58,7 +72,7 @@ Ruby on Rails、JavaScript (Vue.js) 、Git (GitHub)、AWS (EC2/S3)
 IT
 
 ### 業務内容
-- サーバーサイド（API）の開発（Ruby on Rails） 
+- サーバーサイド（API）の開発（Ruby on Rails）
 - フロントエンド開発（mithril.js）
 
 ### 開発環境
