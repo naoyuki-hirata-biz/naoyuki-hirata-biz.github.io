@@ -1,8 +1,12 @@
-title: Naotokyo.GitHub.io
-description: My Portfolio
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-slate
+title: Naoyuki Hirata's Portfolio
+author: Naoyuki Hirata
+description: Naoyuki Hirata's personal portfolio website showcasing projects, skills, and contact information.
 
-gems:
+google_analytics:
+show_downloads: false
+
+remote_theme: pages-themes/architect@v0.2.0
+markdown: kramdown
+plugins:
   - jekyll-mentions
+  - jekyll-remote-theme

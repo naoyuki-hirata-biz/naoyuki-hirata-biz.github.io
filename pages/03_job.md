@@ -1,7 +1,14 @@
-<!-- title: N.H -->
-<!-- subtitle: Work Experience -->
+---
+layout: default
+title: 職務経歴
+permalink: /job/
+---
 
-# サマリー
+[Home](/) ｜ [サービス案内](/service/) ｜ [活動実績](/activity/) ｜ [職務経歴](/job/)
+
+---
+
+## サマリー
 
 - Java : 9年6ヶ月
 - Ruby : 10年11ヶ月
@@ -12,8 +19,6 @@
 ※2026年6月現在
 
 ---
-
-# 活動実績 / 経歴
 
 ## Webサイトのスクレイピング・RPA業務
 ### 期間

@@ -1,4 +1,12 @@
-# サービス案内
+---
+layout: default
+title: サービス案内
+permalink: /service/
+---
+
+[Home](/) ｜ [サービス案内](/service/) ｜ [活動実績](/activity/) ｜ [職務経歴](/job/)
+
+---
 
 ## 概要
 個人事業として、Webサイト制作およびWebアプリケーション開発を行っております。  

@@ -1,6 +1,16 @@
-# Naoyuki Hirata
+---
+layout: default
+title: Naoyuki Hirata | Webエンジニアポートフォリオ
+permalink: /
+---
 
-## 独立系Webエンジニア / 個人事業主
+[Home](/) ｜ [サービス案内](/service/) ｜ [活動実績](/activity/) ｜ [職務経歴](/job/)
+
+---
+
+<style>
+  .site-nav .nav-item[href="/"] { display: none !important; }
+</style>
 
 これまでの企業での開発経験を活かし、クライアントの課題解決に貢献するWebサイト制作およびWebアプリケーション開発を個人事業として行っています。小規模なWebサイト制作から業務効率化を目的としたWebアプリケーション開発まで幅広く対応しています。
 
@@ -21,7 +31,7 @@
 
 提供サービス、対応可能な開発領域、料金目安について掲載しています。
 
-➡️ [サービス案内](service.md)
+➡️ [サービス案内](pages/01_service.md)
 
 
 ---
@@ -30,7 +40,7 @@
 
 個人開発や継続的な技術活動について掲載しています。
 
-➡️ [活動実績](activity.md)
+➡️ [活動実績](pages/02_activity.md)
 
 ---
 
@@ -38,7 +48,7 @@
 
 これまでの開発経験や担当業務、技術領域について掲載しています。
 
-➡️ [職務経歴](job.md)
+➡️ [職務経歴](pages/03_job.md)
 
 ---
 
