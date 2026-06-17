@@ -1,93 +1,66 @@
 ---
 layout: default
-title: Naoyuki Hirata | Webエンジニアポートフォリオ
+title: Naoyuki Hirata | UI/UX Designer & Engineer
 permalink: /
 ---
 
-[Home](/) ｜ [サービス案内](/service/) ｜ [活動実績](/activity/) ｜ [職務経歴](/job/)
+<div style="margin-bottom: 2rem;">
+  <nav style="font-size: 0.9rem; letter-spacing: 0.1em;">
+    <a href="/">HOME</a> ｜ <a href="/service/">SERVICE</a> ｜ <a href="/activity/">ACTIVITY</a> ｜ <a href="/career/">CAREER</a>
+  </nav>
+</div>
+
+# Design and Code for Better Experience.
+### ユーザー体験を設計し、最適な技術で形にする。
+
+UI/UXデザインからフロントエンドの実装、そしてバックエンドの構築まで。
+単にコードを書くのではなく、クライアントの課題を「視覚（Design）」と「仕組み（System）」の両面から解決するプロフェッショナルとして活動しています。
+---
+
+## Service - 事業内容
+
+プログラミング技術を基盤としつつ、**「視覚伝達デザイン」**としてのWeb制作を主軸としています。
+
+- **UI/UXデザイン**: ユーザー調査に基づくインターフェース設計、Figmaを用いたプロトタイピング。
+- **Webデザイン・制作**: ブランドの世界観を表現するクリエイティブなWebサイトの企画・制作。
+- **フロントエンド開発**: モーションデザインやレスポンシブ対応を含む、高品質なUI実装。
+- **Webアプリケーション構築**: 業務効率をデザインで改善する、一貫したシステム開発。
+
+➡️ [提供サービス・料金の詳細を見る](/service/)
 
 ---
 
-<style>
-  .site-nav .nav-item[href="/"] { display: none !important; }
-</style>
+## Selected Works & Background - 実績と経歴
 
-これまでの企業での開発経験を活かし、クライアントの課題解決に貢献するWebサイト制作およびWebアプリケーション開発を個人事業として行っています。小規模なWebサイト制作から業務効率化を目的としたWebアプリケーション開発まで幅広く対応しています。
+「クリエイター」としての確かな実積と、これまでの歩みをご紹介します。
 
----
+#### [Activities - 活動実績](/activity/)
+個人開発や継続的な技術発信、デザイン・制作活動のアーカイブです。常に新しい表現と技術の融合を模索しています。
 
-## 事業内容
-
-- Webアプリケーション開発
-- API設計・開発
-- 業務効率化ツール開発
-- システム保守・運用
+#### [Career - 職務経歴](/career/)
+これまでの開発経験や担当業務、技術領域の変遷です。大規模開発から小規模なデザイン案件まで、多岐にわたる制作実績があります。
 
 ---
 
-## コンテンツ
+## Skillset - 技術領域
 
-### サービス案内
+### 🎨 Creative & Design
+- **Tool**: Sketch / Zeplin / Figma
+- **Field**: UI設計 / UXリサーチ / 情報設計 / タイポグラフィ / 視覚表現の最適化
 
-提供サービス、対応可能な開発領域、料金目安について掲載しています。
-
-➡️ [サービス案内](pages/01_service.md)
-
-
----
-
-### 活動実績
-
-個人開発や継続的な技術活動について掲載しています。
-
-➡️ [活動実績](pages/02_activity.md)
+### 💻 Engineering
+- **Frontend**: HTML5 / CSS3 (Sass) / TypeScript
+- **Backend**: Ruby on Rails / Python (Django) / Go (Gin)
+- **Infrastructure**: Docker / Linux / MySQL / AWS
 
 ---
 
-### 職務経歴
+## Contact
+制作のご依頼、技術的なご相談は下記よりお気軽にご連絡ください。
 
-これまでの開発経験や担当業務、技術領域について掲載しています。
-
-➡️ [職務経歴](pages/03_job.md)
-
+- **GitHub**: [naoyuki-hirata-biz](https://github.com/naoyuki-hirata-biz)
+- **Email**: [naoyuki.hirata.biz@gmail.com](mailto:naoyuki.hirata.biz@gmail.com)
 ---
-
-## 主な技術領域
-
-### Backend
-
-- Ruby (Ruby on Rails)
-- Python (Django)
-- Go (Gin)
-- Node.js
-
-### Frontend
-
-- HTML
-- CSS
-- JavaScript
-- TypeScript
-
-### Infrastructure
-
-- Docker
-- Linux
-- MySQL
-
----
-
-## 活動方針
-
-これまで培った開発経験を活かし、個人事業として継続的な開発活動を行っています。  
-新規案件のご相談や技術的なご相談についても随時受け付けています。
-
----
-
-## お問い合わせ
-
-- GitHub: https://github.com/naoyuki-hirata-biz
-- Email: naoyuki.hirata.biz@gmail.com
-
----
-
-最終更新: 2026-06-08
+<div style="text-align: right; font-size: 0.8rem; color: #888;">
+  Last updated: 2026-06-16
+</div>

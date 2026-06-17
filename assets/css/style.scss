@@ -1,0 +1,58 @@
+---
+# Front matter is required for Jekyll to process Sass
+---
+@import "{{ site.theme }}";
+
+// Architectテーマの基本スタイルをインポート
+// @import "pages-themes-architect";
+
+// --- カスタムスタイル ---
+
+// 全体的なフォント設定
+// 日本語の可読性を高めるゴシック体と、アクセントとなる明朝体を定義
+body {
+  font-family: "Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Meiryo", sans-serif;
+  line-height: 1.7; // 行の高さを少し広げ、読みやすくする
+  color: #333; // テキストの色を少し濃くして視認性を高める
+}
+
+// 見出し（h1, h2, h3）に明朝体を適用し、知的で洗練された印象を与える
+h1, h2, h3 {
+  font-family: "Yu Mincho", "YuMincho", "Hiragino Mincho ProN", serif;
+  font-weight: 500; // フォントウェイトを調整
+  letter-spacing: 0.05em; // 字間を少し広げ、ゆったりとした印象に
+  color: #2c3e50; // 見出しの色を落ち着いた濃い青系に
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+// ヘッダーの背景色をより落ち着いた色に変更
+// architectテーマのデフォルトの青を上書き
+header {
+  background-color: #2c3e50; /* 濃いグレーや紺色に近い色 */
+  color: #f8f8f8;
+  border-bottom: 1px solid #ddd;
+}
+
+// リンクの色を調整
+a {
+  color: #3498db; // 鮮やかすぎない、少し落ち着いた青
+  &:hover {
+    color: #2980b9;
+    text-decoration: underline;
+  }
+}
+
+// コンテンツの幅を調整して、視認性を向上させる
+.container {
+  max-width: 960px; // デフォルトより少し広めに
+  padding: 0 20px;
+}
+
+// セクション間の区切りを少しスタイリッシュに
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+  margin: 40px 0;
+}

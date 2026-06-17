@@ -1,6 +1,15 @@
-title: Naoyuki Hirata's Portfolio
+title: Naoyuki Hirata | UI/UX Designer & Engineer
 author: Naoyuki Hirata
-description: Naoyuki Hirata's personal portfolio website showcasing projects, skills, and contact information.
+description: UI/UXデザイナー / フロントエンド制作 / WebエンジニアであるNaoyuki Hirataのポートフォリオサイトです。Webデザイン、UI/UX設計、フロントエンド制作、Webアプリケーション開発などの実績と技術情報を掲載しています。
+
+encoding: "utf-8"
+
+# TODO: 独自ドメインを検討
+# 以下の項目を追加して、より「公式サイト」感を出す
+# url: "https://your-domain.com" # 独自ドメインがあれば信頼性が爆上がりします
+
+# クリエイターとしてのSNS（Twitter, Behance, GitHubなど）があれば連携
+# architectテーマの仕様に合わせる
 
 google_analytics:
 show_downloads: false
